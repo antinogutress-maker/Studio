@@ -1,0 +1,5 @@
+{
+  "name": "MCQ Parser AI",
+  "description": "Convert unorganized MCQ text into structured JSON format using AI.",
+  "requestFramePermissions": []
+}
